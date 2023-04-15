@@ -1,0 +1,7 @@
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\bin\Debug\ClockControl.pdb
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.csprojResolveAssemblyReference.cache
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.ClockControl.resources
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.Cache
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.pdb
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\bin\Debug\ClockControl.exe
+E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.exe
