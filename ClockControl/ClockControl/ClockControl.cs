@@ -155,7 +155,7 @@ namespace ClockControl
         void DrawMyName(Graphics grfx, Pen pen)
         {
              string s = string.Format("{0:D2}/{1:D2}/{2}", dt.Day, dt.Month, dt.Year);
-          //  string s = "Fidel M.";
+             s += "\n    Alx SE";
             Font font = new Font("Century Gothic", 110);
             grfx.DrawString(s, font, Brushes.Aqua, new Point(-360, 400));
             

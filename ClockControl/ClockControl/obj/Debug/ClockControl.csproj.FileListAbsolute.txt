@@ -5,3 +5,20 @@ E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCS
 E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.pdb
 E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\bin\Debug\ClockControl.exe
 E:\_PROGRAMMATION\_c_sharp\__Formation Gontcho\ProgrammingMicrosoftWindowsWithCSharp\AnalogClock\ClockControl\ClockControl\obj\Debug\ClockControl.exe
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\obj\Debug\ClockControl.exe
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\obj\Debug\ClockControl.pdb
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\ClockControl.exe
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\ClockControl.pdb
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\mscorlib.dll
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\System.Net.Http.dll
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\System.Net.Http.xml
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\fr\mscorlib.resources.dll
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\fr\System.Net.Http.resources.dll
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\normidna.nlp
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\normnfc.nlp
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\normnfd.nlp
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\normnfkc.nlp
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\bin\Debug\normnfkd.nlp
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\obj\Debug\ClockControl.csprojResolveAssemblyReference.cache
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\obj\Debug\ClockControl.ClockControl.resources
+E:\Projects_on_github\CSharp_analogClock\ClockControl\ClockControl\obj\Debug\ClockControl.csproj.GenerateResource.Cache
